@@ -28,7 +28,7 @@ if "results" not in st.session_state:
 st.subheader("Download Sample Test Dataset")
 
 st.markdown(
-    "[Click here to download test_data.csv](https://github.com/sweety-garai/ml-classification-models-streamlit/blob/main/data/test_data.csv)"
+    "[Click here to download test_data.csv](https://raw.githubusercontent.com/sweety-garai/ml-classification-models-streamlit/main/data/test_data.csv)"
 )
 
 
