@@ -53,7 +53,7 @@ if uploaded_file is not None:
 # ---------------------------------------------------
 # Model selection
 # ---------------------------------------------------
-st.subheader("Step 2: Select Model")
+st.subheader("Select Model")
 
 model_descriptions = {
     "Logistic Regression": "Linear baseline classifier.",
@@ -74,7 +74,7 @@ st.info(model_descriptions[model_choice])
 # ---------------------------------------------------
 # Run Model
 # ---------------------------------------------------
-st.subheader("Step 3: Run Model")
+st.subheader("Run Model")
 
 if st.button("Run Model"):
 
