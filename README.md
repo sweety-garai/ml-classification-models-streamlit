@@ -86,7 +86,4 @@ The Streamlit web application provides the following features:
 - Confusion matrix visualization  
 - Income prediction on uploaded test data  
 
-The application can be run locally using:
-
-```bash
-streamlit run app.py
+Application URL: https://ml-assignment2-app-67umylaefcqpy7w4fdrpa5.streamlit.app/
